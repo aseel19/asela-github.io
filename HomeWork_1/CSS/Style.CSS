@@ -1,0 +1,22 @@
+body{
+    background-color:rgba(190, 175, 177, 0.418);
+    align-items: center;
+    border-image: fill;
+    background-repeat: repeat;
+}
+h1{
+    font-family: sans-serif;
+    font-size:50px;
+    color:rgb(211, 196, 146)
+}
+
+#h2id{
+    font-family:serif;
+    font-size:25px;
+    color:rgba(255, 123, 0, 0.637);
+}
+#h3id{
+    font-family:serif;
+    font-size:25px;
+    color:darkgreen;
+}
